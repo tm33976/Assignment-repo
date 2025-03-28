@@ -72,7 +72,8 @@ This project is built with the following technologies:
    ```
 3. Install dependencies:
    ```sh
-   npm install
+   npm install --legacy-peer-deps
+
    ```
 4. Start the development server:
    ```sh
